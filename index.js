@@ -3,7 +3,7 @@ const MESSAGES = {
   MISSING: "Faltam números para resolver a pirâmide!",
   WRONG_SOLVE: "Solução inválida!",
   SOLVE: "Parabêns você é incrivel!",
-  INVALID_NUMBER: "Você deve user números de 1 a 15!",
+  INVALID_NUMBER: "Você deve usar números de 1 a 15!",
   DUPLICATED_NUMBERS: "Alguém andou não olhando as regras!",
   ERROR: "Houve algun erro interno :(",
 };
