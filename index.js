@@ -10,7 +10,7 @@ const MESSAGES = {
 
 function updateTipNumber(number) {
   const tipNumber = document.getElementById(`tip-${number}`);
-  if (tipNumber) tipNumber.innerText = "";
+  if (tipNumber) tipNumber.remove();
 }
 
 function generateTipNumbers() {
